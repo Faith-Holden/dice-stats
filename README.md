@@ -3,7 +3,7 @@
 My solution for Chapter 5 Exercise 3 of “Introduction to Programming Using Java”.
 
 Implementation notes: At the time I did this exercise, I implemented it in a way that I would now consider to be... not ideal. 
-Rather than rewriting it now, I am choosing to leave it as is. 
+Rather than rewriting it now, I am choosing to leave it as is to demonstrate my progression. 
 The most concerning issues with it are that 1) the main function could be vastly simplified by calling the print statements in a for-loop
 and 2) the countRollsToTally should NOT implement a dice-rolling functionality, but should call PairOfDice.roll().
 
